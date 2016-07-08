@@ -46,6 +46,7 @@ header nav a{
   font-weight: normal;
   line-height: 1.2;
   margin-bottom: 40px;
+  color: red;
 }
 .line{
   width: 80px;
